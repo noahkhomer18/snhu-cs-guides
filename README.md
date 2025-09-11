@@ -102,7 +102,6 @@ Hi, I'm **Noah Khomer** — a Computer Science major at Southern New Hampshire U
 - 🎓 Double degree holder: B.S. in Business Administration (Project Management & Information Systems) + B.S. in Computer Science  
 - 📊 Currently pursuing dual master's degrees in **Computer Science** and **Business**  
 - 💻 Passionate about **web development, AI/ML, and full-stack engineering**  
-- 🚀 Creator of the **100 Days of Coding** challenge, where I build and deploy projects daily (React apps, APIs, data tools, and more)  
 - 🌐 Portfolio: [noah-khomer.com](https://noah-khomer.com)  
 - 🔗 GitHub: [@noahkhomer18](https://github.com/noahkhomer18) • [LinkedIn](https://linkedin.com/in/noahkhomer18/)  
 
@@ -129,6 +128,16 @@ This project exists to give you an **extensive idea of what each course covers**
 ⚠️ **Do not cheat.** It's not worth it. Employers expect graduates to know how to build, debug, and deploy real projects. If you skip the work, you'll only hurt yourself and saturate the market without being able to even run `npm start` on your own code.  
 
 This repo is meant to **support your learning**, not replace it. Course content can (and does) change over time, so always check against your **instructor's directions, rubrics, and updated course materials**.
+
+---
+
+## ⭐ Support & Future Updates
+
+If you find this guide helpful, please **star this repository** ⭐ — it helps other SNHU students discover it.  
+
+I'll be **constantly editing and improving** these guides as courses evolve and new tools come into play.  
+
+🚀 Next chapter: I am also enrolling in a **Master's in Computer Science**. As I progress through those graduate-level courses, I will **add new guides and resources** here to expand the collection beyond the B.S. program.  
 
 ---
 
