@@ -28,6 +28,23 @@ I built this repo to give back to the SNHU community — when I was working thro
 
 ---
 
+## 📌 Scope of This Guide
+
+As of **September 10th, 2025**, this guide only contains **major Computer Science courses**.  
+It will remain focused exclusively on **core CS coursework**.  
+
+Why?  
+- Common Core, General Education, Arts, and Elective courses (e.g., history, humanities, sociology) are **not included**, since they are not directly part of the CS curriculum.  
+- Most SNHU CS students **transfer in** a large portion of these credits (I personally transferred **70+ credits** from platforms such as **Sophia.org**, **Study.com**, CLEP exams, AP credits, and community college coursework).  
+- Because these are widely satisfied through transfer credit, this guide is focused only on the **Computer Science stack** — the classes that actually build programming, math, systems, and engineering skills.  
+
+✅ **Included:** All CS major requirements + supporting math/physics courses (Discrete Math, Linear Algebra, Physics, etc.)  
+❌ **Excluded:** General education, electives, non-CS requirements  
+
+This keeps the repo streamlined, relevant, and valuable to CS majors who want insight into the **real technical workload**.
+
+---
+
 ## 📚 Courses Covered
 
 - MAT-230 Discrete Mathematics  
