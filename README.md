@@ -1,6 +1,15 @@
-# SNHU CS Guides
+# 🎓 SNHU Computer Science Study Guides
 
-This repository contains guides and resources for Southern New Hampshire University Computer Science students.
+This repository is a **complete collection of guides for the Bachelor of Science in Computer Science at Southern New Hampshire University (SNHU)**.  
+
+Each course has its own folder containing:
+- 📝 **guide.md** — a detailed, student-friendly survival guide (1+ pages per course)
+- 🔗 **resources.md** — key links (zyBooks, tools, Reddit threads, GitHub examples)
+- 💻 **examples/** — starter code, templates, or small scripts where applicable
+
+The goal is to help SNHU CS students succeed by providing **clear expectations, milestone breakdowns, common pitfalls, and practical tips** for earning an A.
+
+---
 
 ## 👋 About Me
 
@@ -17,11 +26,53 @@ I built this repo to give back to the SNHU community — when I was working thro
 
 💡 **Motto:** Knowledge is power, and there's no substitute for hard work.
 
-## ⚠️ Disclaimer
+---
 
-This project is **unofficial** and not affiliated with Southern New Hampshire University.  
-It is intended for **study support, skill practice, and community sharing only**.  
-Do not use this material to violate SNHU's academic integrity policies.
+## 📚 Courses Covered
+
+- MAT-230 Discrete Mathematics  
+- MAT-350 Applied Linear Algebra  
+- PHY-150 Introductory Physics: Mechanics  
+- IT-140 Introduction to Scripting  
+- CS-210 Programming Languages  
+- CS-230 Operating Platforms  
+- CS-250 Software Development Lifecycle  
+- CS-255 Systems Analysis and Design  
+- CS-260 Data Structures and Algorithms  
+- CS-305 Software Security  
+- CS-320 Software Testing & QA  
+- CS-330 Computer Graphics & Visualization  
+- CS-340 Client/Server Development  
+- CS-360 Mobile Architecture & Programming  
+- CS-370 Current/Emerging Trends in CS  
+- CS-465 Full Stack Development I  
+- CS-499 Computer Science Capstone  
+
+---
+
+## 📂 Repository Structure
+
+---
+
+## ⚠️ Purpose & Academic Integrity
+
+This project exists to give you an **extensive idea of what each course covers** — what to expect, what tools are used, common challenges, and how to prepare.  
+
+👉 **What this is NOT:**
+- ❌ No copy-paste assignments  
+- ❌ No cheating solutions  
+- ❌ No shortcuts to bypass the work  
+
+👉 **What this IS:**
+- ✅ A structured guide to the SNHU CS program  
+- ✅ Study material, resources, and tips  
+- ✅ Insight into milestones, workload, and expectations  
+
+Remember: **do not cheat**. Do not use online tools to bypass your learning — it's not worth it. You'd only hurt yourself and saturate the job market without the skills to even run `npm start` on a project.  
+
+This repo is designed to **support your learning**, not replace it. Course material can (and does) change over time, so always double-check against your instructor's directions and rubrics.
+
+---
 
 ## Contributing
 
