@@ -1,15 +1,14 @@
-# CS-210 Programming Languages
+# CS-210: Programming Languages
 
-Welcome to the CS-210 Programming Languages study guide!
+This folder contains materials for **CS-210 Programming Languages** at SNHU.
 
-## Course Overview
-This course covers multiple programming languages and their paradigms.
+## Contents
+- [guide.md](./guide.md) — Full survival guide (overview, pitfalls, weekly plan)  
+- [resources.md](./resources.md) — Curated links to docs, tutorials, and Reddit threads  
+- [success.md](./success.md) — Step-by-step strategies for earning an A  
+- [examples/](./examples) — Starter code templates (Python, Java, C++)  
 
-## Quick Links
-- [📝 Full Guide](guide.md)
-- [🔗 Resources](resources.md) 
-- [🎯 Success Strategies](success.md)
-- [💻 Code Examples](examples/)
-
-## Getting Started
-Start with the [guide.md](guide.md) for a complete course breakdown.
+## Purpose
+This material is meant to **support your learning**, not replace it.  
+It provides study guides, resources, and strategies to help you succeed.  
+Do not copy assignments; instead, use these materials to **understand and excel**.
