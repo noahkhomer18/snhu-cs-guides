@@ -11,7 +11,7 @@ Hi, I'm **Noah Khomer** — a Computer Science major at Southern New Hampshire U
 - 💻 Passionate about **web development, AI/ML, and full-stack engineering**  
 - 🚀 Creator of the **100 Days of Coding** challenge, where I build and deploy projects daily (React apps, APIs, data tools, and more)  
 - 🌐 Portfolio: [noah-khomer.com](https://noah-khomer.com)  
-- 🔗 GitHub: [@noahkhomer18](https://github.com/noahkhomer18) • [LinkedIn](https://linkedin.com/in/noah-khomer-19a935342)  
+- 🔗 GitHub: [@noahkhomer18](https://github.com/noahkhomer18) • [LinkedIn](https://www.linkedin.com/in/noahkhomer18/)  
 
 I built this repo to give back to the SNHU community — when I was working through my CS program, I often pieced together info from Reddit, GitHub, and classmates. This project puts it all in one place to help future students succeed.  
 
