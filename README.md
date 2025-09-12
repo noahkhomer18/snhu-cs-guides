@@ -23,15 +23,15 @@ This guide covers the **complete Computer Science major stack** including core C
 - **CS-250** Software Development Lifecycle (7 examples) - Agile, Scrum, testing, version control
 - **CS-255** Systems Analysis and Design (2 examples) - Requirements analysis, system architecture
 - **CS-260** Data Structures and Algorithms (4 examples) - Arrays, sorting, graphs, stacks/queues
-- **CS-300** Data Structures & Algorithms (1 example) - Advanced algorithms, dynamic programming
+- **CS-300** Data Structures & Algorithms (4 examples) - Advanced algorithms, graph algorithms, string algorithms, sorting
 - **CS-305** Software Security (3 examples) - Authentication, encryption, secure coding
 - **CS-320** Software Testing & QA (3 examples) - Unit testing, integration testing, performance
-- **CS-330** Computer Graphics (1 example) - 2D graphics, transformations, animation
+- **CS-330** Computer Graphics (4 examples) - 2D graphics, 3D graphics, WebGL, transformations
 - **CS-340** Client/Server Development (3 examples) - REST APIs, database integration, security
-- **CS-350** Emerging Systems (1 example) - Embedded programming, GPIO, interrupts
-- **CS-360** Mobile Architecture (1 example) - Android development, activities, databases
-- **CS-370** Current Trends (1 example) - AI/ML integration, chatbots, computer vision
-- **CS-465** Full Stack Development (2 examples) - React frontend, deployment & DevOps
+- **CS-350** Emerging Systems (3 examples) - Arduino programming, Raspberry Pi, embedded systems
+- **CS-360** Mobile Architecture (3 examples) - Android development, iOS development, mobile apps
+- **CS-370** Current Trends (3 examples) - Machine learning, AI applications, neural networks
+- **CS-465** Full Stack Development (4 examples) - React frontend, Node.js backend, deployment, DevOps
 - **CS-499** Computer Science Capstone (2 examples) - Project planning, portfolio development
 
 ### 🧮 Mathematics & Statistics (3) - ALL COMPLETE ✅
@@ -53,7 +53,7 @@ This guide covers the **complete Computer Science major stack** including core C
 - **ENG-122** English Composition (1 example) - Academic writing, research papers
 - **IDS-400** Ethics in Technology (1 example) - Ethical frameworks, AI ethics
 
-**🎯 TOTAL: 100+ COMPREHENSIVE EXAMPLES ACROSS ALL 19 COURSES!**
+**🎯 TOTAL: 120+ COMPREHENSIVE EXAMPLES ACROSS ALL 19 COURSES!**
 
 Each course includes:
 - 📝 **guide.md** — Comprehensive survival guide with expectations, flow, pitfalls, and tips
@@ -135,7 +135,7 @@ This guide now provides the **most complete SNHU CS resource available**:
 ### 📊 Course Quality Features:
 - **Real SNHU Information** — Based on actual course descriptions, prerequisites, and student reports
 - **Comprehensive Resources** — Textbooks, tools, tutorials, and helpful links
-- **100+ Practical Examples** — Working code samples, network diagrams, database schemas, and project templates
+- **120+ Practical Examples** — Working code samples, network diagrams, database schemas, and project templates
 - **Success Checklists** — Rubric requirements and grading criteria
 - **Professional Development** — Examples that demonstrate industry best practices
 
@@ -154,7 +154,7 @@ This expanded scope makes the guide valuable for **all SNHU CS students**, wheth
 
 ### 📈 Recent Major Updates (September 2025):
 - 🎉 **COMPLETED ALL 19 COURSES**: Every single course now has comprehensive examples!
-- ✅ **100+ Practical Examples**: Working code samples, real-world scenarios, step-by-step tutorials
+- ✅ **120+ Practical Examples**: Working code samples, real-world scenarios, step-by-step tutorials
 - ✅ **All Programming Languages**: Java, Python, C++, JavaScript, SQL, HTML/CSS, and more
 - ✅ **Real Course Information**: Based on actual SNHU course descriptions and student reports
 - ✅ **Comprehensive Resources**: Updated with current textbooks, tools, and tutorials
