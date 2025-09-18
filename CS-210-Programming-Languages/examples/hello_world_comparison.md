@@ -30,10 +30,18 @@ public class HelloWorld {
 print("Hello, World!")
 ```
 
+### Kotlin Implementation
+```kotlin
+fun main() {
+    println("Hello, World!")
+}
+```
+
 ## 🔍 Key Differences
 - **C++**: Requires headers, namespace, main function, explicit return
 - **Java**: Class-based, static main method, String array parameter
 - **Python**: Simple one-liner, no main function required
+- **Kotlin**: Function-based, no class wrapper needed, concise syntax
 
 ## 💡 Learning Points
 - Syntax complexity varies significantly
