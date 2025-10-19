@@ -24,7 +24,7 @@ This guide covers the **complete Computer Science major stack** including core C
 | **CS-210** | Programming Languages | 10 examples | Language comparisons, OOP, memory management |
 | **CS-230** | Operating Platforms | 9 examples | Linux/Windows operations, scripting, networking |
 | **CS-250** | Software Development Lifecycle | 7 examples | Agile, Scrum, testing, version control |
-| **CS-255** | Systems Analysis and Design | 2 examples | Requirements analysis, system architecture |
+| **CS-255** | Systems Analysis and Design | 5 examples | Requirements analysis, system architecture |
 | **CS-260** | Data Structures and Algorithms | 4 examples | Arrays, sorting, graphs, stacks/queues |
 | **CS-300** | Data Structures & Algorithms | 4 examples | Advanced algorithms, graph algorithms, string algorithms, sorting |
 | **CS-305** | Software Security | 3 examples | Authentication, encryption, secure coding |
@@ -35,21 +35,21 @@ This guide covers the **complete Computer Science major stack** including core C
 | **CS-360** | Mobile Architecture | 3 examples | Android development, iOS development, mobile apps |
 | **CS-370** | Current Trends | 3 examples | Machine learning, AI applications, neural networks |
 | **CS-465** | Full Stack Development | 4 examples | React frontend, Node.js backend, deployment, DevOps |
-| **CS-499** | Computer Science Capstone | 2 examples | Project planning, portfolio development |
+| **CS-499** | Computer Science Capstone | 4 examples | Project planning, portfolio development |
 
 ### 🧮 Mathematics & Statistics (3) - ALL COMPLETE ✅
 
 | Course Code | Course Name | Examples | Key Topics |
 |--------------|-------------|----------|------------|
 | **MAT-230** | Discrete Mathematics | existing examples | Logic, proofs, graph theory |
-| **MAT-243** | Applied Statistics | 1 example | Statistical analysis, hypothesis testing |
+| **MAT-243** | Applied Statistics | 2 examples | Statistical analysis, hypothesis testing |
 | **MAT-350** | Applied Linear Algebra | existing examples | Vectors, matrices, transformations |
 
 ### 🔬 Science Requirements (2) - ALL COMPLETE ✅
 
 | Course Code | Course Name | Examples | Key Topics |
 |--------------|-------------|----------|------------|
-| **PHY-150** | Introductory Physics | 1 example | Kinematics, energy, momentum calculations |
+| **PHY-150** | Introductory Physics | 2 examples | Kinematics, energy, momentum calculations |
 | **Science Elective** | Science Elective | 1 example | Lab experiments, scientific methodology |
 
 ### 💻 IT & Elective Courses (4) - ALL COMPLETE ✅
@@ -58,19 +58,19 @@ This guide covers the **complete Computer Science major stack** including core C
 |--------------|-------------|----------|------------|
 | **IT-140** | Introduction to Scripting | existing examples | Python programming |
 | **IT-212** | Computer Networking | existing examples | OSI model, subnetting, security |
-| **IT-315** | Object-Oriented Analysis & Design | 1 example | UML diagrams, OOAD principles |
+| **IT-315** | Object-Oriented Analysis & Design | 2 examples | UML diagrams, OOAD principles |
 | **IT-235** | Database Design | existing examples | ER modeling, normalization, SQL |
 
 ### 📝 General Education (2) - ALL COMPLETE ✅
 
 | Course Code | Course Name | Examples | Key Topics |
 |--------------|-------------|----------|------------|
-| **ENG-122** | English Composition | 1 example | Academic writing, research papers |
-| **IDS-400** | Ethics in Technology | 1 example | Ethical frameworks, AI ethics |
+| **ENG-122** | English Composition | 2 examples | Academic writing, research papers |
+| **IDS-400** | Ethics in Technology | 2 examples | Ethical frameworks, AI ethics |
 
 ---
 
-## 🎯 **TOTAL: 120+ COMPREHENSIVE EXAMPLES ACROSS ALL 19 COURSES!**
+## 🎯 **TOTAL: 130+ COMPREHENSIVE EXAMPLES ACROSS ALL 19 COURSES!**
 
 Each course includes:
 - 📝 **guide.md** — Comprehensive survival guide with expectations, flow, pitfalls, and tips
