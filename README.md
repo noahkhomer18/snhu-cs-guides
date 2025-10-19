@@ -18,42 +18,59 @@ The purpose of this project is to provide **future and current SNHU CS students*
 This guide covers the **complete Computer Science major stack** including core CS courses, supporting math/science requirements, IT electives, and general education courses. **Every single course now includes 5-10 practical examples with working code!**
 
 ### 🖥️ Core Computer Science Courses (15) - ALL COMPLETE ✅
-- **CS-210** Programming Languages (10 examples) - Language comparisons, OOP, memory management
-- **CS-230** Operating Platforms (9 examples) - Linux/Windows operations, scripting, networking
-- **CS-250** Software Development Lifecycle (7 examples) - Agile, Scrum, testing, version control
-- **CS-255** Systems Analysis and Design (2 examples) - Requirements analysis, system architecture
-- **CS-260** Data Structures and Algorithms (4 examples) - Arrays, sorting, graphs, stacks/queues
-- **CS-300** Data Structures & Algorithms (4 examples) - Advanced algorithms, graph algorithms, string algorithms, sorting
-- **CS-305** Software Security (3 examples) - Authentication, encryption, secure coding
-- **CS-320** Software Testing & QA (3 examples) - Unit testing, integration testing, performance
-- **CS-330** Computer Graphics (4 examples) - 2D graphics, 3D graphics, WebGL, transformations
-- **CS-340** Client/Server Development (3 examples) - REST APIs, database integration, security
-- **CS-350** Emerging Systems (3 examples) - Arduino programming, Raspberry Pi, embedded systems
-- **CS-360** Mobile Architecture (3 examples) - Android development, iOS development, mobile apps
-- **CS-370** Current Trends (3 examples) - Machine learning, AI applications, neural networks
-- **CS-465** Full Stack Development (4 examples) - React frontend, Node.js backend, deployment, DevOps
-- **CS-499** Computer Science Capstone (2 examples) - Project planning, portfolio development
+
+| Course Code | Course Name | Examples | Key Topics |
+|--------------|-------------|----------|------------|
+| **CS-210** | Programming Languages | 10 examples | Language comparisons, OOP, memory management |
+| **CS-230** | Operating Platforms | 9 examples | Linux/Windows operations, scripting, networking |
+| **CS-250** | Software Development Lifecycle | 7 examples | Agile, Scrum, testing, version control |
+| **CS-255** | Systems Analysis and Design | 2 examples | Requirements analysis, system architecture |
+| **CS-260** | Data Structures and Algorithms | 4 examples | Arrays, sorting, graphs, stacks/queues |
+| **CS-300** | Data Structures & Algorithms | 4 examples | Advanced algorithms, graph algorithms, string algorithms, sorting |
+| **CS-305** | Software Security | 3 examples | Authentication, encryption, secure coding |
+| **CS-320** | Software Testing & QA | 3 examples | Unit testing, integration testing, performance |
+| **CS-330** | Computer Graphics | 4 examples | 2D graphics, 3D graphics, WebGL, transformations |
+| **CS-340** | Client/Server Development | 3 examples | REST APIs, database integration, security |
+| **CS-350** | Emerging Systems | 3 examples | Arduino programming, Raspberry Pi, embedded systems |
+| **CS-360** | Mobile Architecture | 3 examples | Android development, iOS development, mobile apps |
+| **CS-370** | Current Trends | 3 examples | Machine learning, AI applications, neural networks |
+| **CS-465** | Full Stack Development | 4 examples | React frontend, Node.js backend, deployment, DevOps |
+| **CS-499** | Computer Science Capstone | 2 examples | Project planning, portfolio development |
 
 ### 🧮 Mathematics & Statistics (3) - ALL COMPLETE ✅
-- **MAT-230** Discrete Mathematics (existing examples) - Logic, proofs, graph theory
-- **MAT-243** Applied Statistics (1 example) - Statistical analysis, hypothesis testing
-- **MAT-350** Applied Linear Algebra (existing examples) - Vectors, matrices, transformations
+
+| Course Code | Course Name | Examples | Key Topics |
+|--------------|-------------|----------|------------|
+| **MAT-230** | Discrete Mathematics | existing examples | Logic, proofs, graph theory |
+| **MAT-243** | Applied Statistics | 1 example | Statistical analysis, hypothesis testing |
+| **MAT-350** | Applied Linear Algebra | existing examples | Vectors, matrices, transformations |
 
 ### 🔬 Science Requirements (2) - ALL COMPLETE ✅
-- **PHY-150** Introductory Physics (1 example) - Kinematics, energy, momentum calculations
-- **Science Elective** (1 example) - Lab experiments, scientific methodology
+
+| Course Code | Course Name | Examples | Key Topics |
+|--------------|-------------|----------|------------|
+| **PHY-150** | Introductory Physics | 1 example | Kinematics, energy, momentum calculations |
+| **Science Elective** | Science Elective | 1 example | Lab experiments, scientific methodology |
 
 ### 💻 IT & Elective Courses (4) - ALL COMPLETE ✅
-- **IT-140** Introduction to Scripting (existing examples) - Python programming
-- **IT-212** Computer Networking (existing examples) - OSI model, subnetting, security
-- **IT-315** Object-Oriented Analysis & Design (1 example) - UML diagrams, OOAD principles
-- **IT-235** Database Design (existing examples) - ER modeling, normalization, SQL
+
+| Course Code | Course Name | Examples | Key Topics |
+|--------------|-------------|----------|------------|
+| **IT-140** | Introduction to Scripting | existing examples | Python programming |
+| **IT-212** | Computer Networking | existing examples | OSI model, subnetting, security |
+| **IT-315** | Object-Oriented Analysis & Design | 1 example | UML diagrams, OOAD principles |
+| **IT-235** | Database Design | existing examples | ER modeling, normalization, SQL |
 
 ### 📝 General Education (2) - ALL COMPLETE ✅
-- **ENG-122** English Composition (1 example) - Academic writing, research papers
-- **IDS-400** Ethics in Technology (1 example) - Ethical frameworks, AI ethics
 
-**🎯 TOTAL: 120+ COMPREHENSIVE EXAMPLES ACROSS ALL 19 COURSES!**
+| Course Code | Course Name | Examples | Key Topics |
+|--------------|-------------|----------|------------|
+| **ENG-122** | English Composition | 1 example | Academic writing, research papers |
+| **IDS-400** | Ethics in Technology | 1 example | Ethical frameworks, AI ethics |
+
+---
+
+## 🎯 **TOTAL: 120+ COMPREHENSIVE EXAMPLES ACROSS ALL 19 COURSES!**
 
 Each course includes:
 - 📝 **guide.md** — Comprehensive survival guide with expectations, flow, pitfalls, and tips
