@@ -27,7 +27,7 @@ This guide covers the **complete Computer Science major stack** including core C
 | **CS-255** | Systems Analysis and Design | 5 examples | Requirements analysis, system architecture |
 | **CS-260** | Data Structures and Algorithms | 4 examples | Arrays, sorting, graphs, stacks/queues |
 | **CS-300** | Data Structures & Algorithms | 4 examples | Advanced algorithms, graph algorithms, string algorithms, sorting |
-| **CS-305** | Software Security | 3 examples | Authentication, encryption, secure coding |
+| **CS-305** | Software Security | 4 examples | Authentication, encryption, secure coding |
 | **CS-320** | Software Testing & QA | 3 examples | Unit testing, integration testing, performance |
 | **CS-330** | Computer Graphics | 4 examples | 2D graphics, 3D graphics, WebGL, transformations |
 | **CS-340** | Client/Server Development | 3 examples | REST APIs, database integration, security |
