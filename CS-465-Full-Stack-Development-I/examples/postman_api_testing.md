@@ -329,7 +329,7 @@ pm.test("Package no longer exists", function () {
 ```json
 {
   "username": "admin",
-  "password": "password123"
+  "password": "EXAMPLE_PASSWORD_REPLACE_IN_PRODUCTION"
 }
 ```
 

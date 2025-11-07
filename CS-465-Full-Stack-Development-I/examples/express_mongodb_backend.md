@@ -302,7 +302,7 @@ export const authenticate = async (
       return;
     }
 
-    const decoded = jwt.verify(token, process.env.JWT_SECRET || 'your-secret-key') as { id: string };
+    const decoded = jwt.verify(token, process.env.JWT_SECRET || 'REPLACE_WITH_STRONG_SECRET') as { id: string };
     const user = await User.findById(decoded.id).select('-password');
 
     if (!user) {
@@ -396,7 +396,9 @@ import { AppError } from '../middleware/error.middleware';
 
 // Generate JWT Token
 const generateToken = (id: string): string => {
-  return jwt.sign({ id }, process.env.JWT_SECRET || 'your-secret-key', {
+  // WARNING: JWT_SECRET should be set in environment variables
+  // Never use default values in production
+  return jwt.sign({ id }, process.env.JWT_SECRET || 'REPLACE_WITH_STRONG_SECRET', {
     expiresIn: process.env.JWT_EXPIRES_IN || '24h'
   });
 };
@@ -835,10 +837,14 @@ NODE_ENV=development
 # Database
 MONGODB_URI=mongodb://localhost:27017/travel
 # Or for MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/travel?retryWrites=true&w=majority
+# MONGODB_URI=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@cluster.mongodb.net/travel?retryWrites=true&w=majority
+# WARNING: Replace YOUR_USERNAME and YOUR_PASSWORD with actual credentials
+# NEVER commit real credentials to version control
 
 # JWT
-JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
+# WARNING: Generate a strong random secret for production
+# Use: openssl rand -base64 32
+JWT_SECRET=REPLACE_WITH_STRONG_RANDOM_SECRET_IN_PRODUCTION
 JWT_EXPIRES_IN=24h
 ```
 

@@ -11,9 +11,11 @@ Token-based authentication provides secure access control for your full stack ap
 const jwt = require('jsonwebtoken');
 
 const generateToken = (userId) => {
+  // WARNING: JWT_SECRET should be set in environment variables
+  // Never use default values in production
   return jwt.sign(
     { id: userId },
-    process.env.JWT_SECRET || 'your-secret-key',
+    process.env.JWT_SECRET || 'REPLACE_WITH_STRONG_SECRET',
     {
       expiresIn: process.env.JWT_EXPIRES_IN || '24h'
     }
@@ -22,7 +24,8 @@ const generateToken = (userId) => {
 
 const verifyToken = (token) => {
   try {
-    return jwt.verify(token, process.env.JWT_SECRET || 'your-secret-key');
+    // WARNING: JWT_SECRET should be set in environment variables
+    return jwt.verify(token, process.env.JWT_SECRET || 'REPLACE_WITH_STRONG_SECRET');
   } catch (error) {
     throw new Error('Invalid or expired token');
   }
@@ -492,7 +495,7 @@ const testLogin = async () => {
     },
     body: JSON.stringify({
       username: 'admin',
-      password: 'password123'
+      password: 'EXAMPLE_PASSWORD_REPLACE_IN_PRODUCTION'
     })
   });
 

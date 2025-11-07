@@ -310,11 +310,14 @@ git push origin feature/user-authentication
 MONGODB_URI=mongodb://localhost:27017/cs465-db
 MYSQL_HOST=localhost
 MYSQL_USER=root
-MYSQL_PASSWORD=password
+MYSQL_PASSWORD=REPLACE_WITH_ACTUAL_PASSWORD
+# WARNING: Never commit real passwords to version control
 MYSQL_DATABASE=cs465_db
 
 # JWT
-JWT_SECRET=your-secret-key
+# WARNING: Generate a strong random secret for production
+# Use: openssl rand -base64 32
+JWT_SECRET=REPLACE_WITH_STRONG_RANDOM_SECRET
 JWT_EXPIRES_IN=24h
 
 # Server
